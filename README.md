@@ -7,3 +7,6 @@ I have implemented the space-partitioning optimization for collision detection, 
 # Sample Videos
 
 QuadTree Generation: https://drive.google.com/file/d/1rVcm2hXOToGibQfTZuRkBOLEZxE9q4IN/view?usp=share_link
+Gravity-Based Implosion: https://drive.google.com/file/d/1NMl27XJuC6lvx2AZc1MpIqjskYfA40kA/view?usp=sharing
+Multiple Galaxies Forming: https://drive.google.com/file/d/1UyovO_xXs-sqNeUtyNm9_bPYpWUJhfa3/view?usp=sharing
+ 
