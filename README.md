@@ -11,4 +11,6 @@ QuadTree Generation: https://drive.google.com/file/d/1rVcm2hXOToGibQfTZuRkBOLEZx
 Gravity-Based Implosion: https://drive.google.com/file/d/1NMl27XJuC6lvx2AZc1MpIqjskYfA40kA/view?usp=sharing
 
 Multiple Galaxies Forming: https://drive.google.com/file/d/1UyovO_xXs-sqNeUtyNm9_bPYpWUJhfa3/view?usp=sharing
- 
+
+Comparison Photo For Galaxies: 
+![Screenshot 2023-10-22 at 1 11 51 PM](https://github.com/sameeragrawal536/SDL-Physics-Engine/assets/65458627/3901f3e4-26c9-4dfa-b206-d0fad971783c)
