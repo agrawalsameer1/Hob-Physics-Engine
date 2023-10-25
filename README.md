@@ -1,6 +1,6 @@
 # Hob-Physics-Engine
 
-<img width="560" alt="Screenshot 2023-10-24 at 9 13 03 PM" src="https://github.com/sameeragrawal536/Hob-Physics-Engine/assets/65458627/ff1a0dd5-9954-46e4-8de9-1e78d05aeee8" style="100 px">
+<img width="560" alt="Screenshot 2023-10-24 at 9 13 03 PM" src="https://github.com/sameeragrawal536/Hob-Physics-Engine/assets/65458627/ff1a0dd5-9954-46e4-8de9-1e78d05aeee8" style="100px">
 
 
 This is a simple 2D physics engine built in C++ with the SDL Graphics Library. 
