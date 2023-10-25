@@ -4,6 +4,8 @@
 
 <img width="560" height="20" src="https://github.com/sameeragrawal536/Hob-Physics-Engine/assets/65458627/912ba660-ff1f-46f6-a8ee-64848c5cc80a">
 
+The Hob Physics Engine is a simple 2D physics engine built in C++ with the SDL Graphics Library.
+
 It currently supports elastic collisions and gravitational interactions between particles, and is capable of simulating around 1.5k particles in real-time at around 25 FPS. For simulations larger than this, it automatically generates a 30 FPS video of the simulation using the [stb_image library](https://github.com/nothings/stb). In addition, because larger simulations can become unstable, the physics engine runs 5 substeps per frame of video for maximum accuracy and stability.
 
 I have implemented the space-partitioning optimization for collision detection, and the Barnes-Hut algorithm with Quadtrees to optimize the gravity simulation. 
