@@ -16,4 +16,4 @@ QuadTree Generation: https://drive.google.com/file/d/1rVcm2hXOToGibQfTZuRkBOLEZx
 
 Gravity-Based Implosion: https://drive.google.com/file/d/1NMl27XJuC6lvx2AZc1MpIqjskYfA40kA/view?usp=sharing
 
-Multiple "Galaxies" Forming: https://drive.google.com/file/d/1HYNQpwOBfthQ27iSpALz2S0Wdnw6qYbg/view?usp=sharing
+Galaxy Formation (50k particles): https://drive.google.com/file/d/1HYNQpwOBfthQ27iSpALz2S0Wdnw6qYbg/view?usp=sharing
