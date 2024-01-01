@@ -1,5 +1,7 @@
 # Hob-Physics-Engine
 
+Developed By: Sameer Agrawal
+
 <img width="560" alt="Screenshot 2023-10-24 at 9 13 03 PM" src="https://github.com/sameeragrawal536/Hob-Physics-Engine/assets/65458627/ff1a0dd5-9954-46e4-8de9-1e78d05aeee8">
 
 <img width="560" height="15" src="https://github.com/sameeragrawal536/Hob-Physics-Engine/assets/65458627/912ba660-ff1f-46f6-a8ee-64848c5cc80a">
