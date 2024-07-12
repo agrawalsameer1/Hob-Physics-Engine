@@ -6,6 +6,8 @@ Developed By: Sameer Agrawal
 
 <img width="560" height="15" src="https://github.com/sameeragrawal536/Hob-Physics-Engine/assets/65458627/912ba660-ff1f-46f6-a8ee-64848c5cc80a">
 
+Please also see [my extension to this project](https://github.com/sameeragrawal536/HartreeFockEngine), in which I implemented the Hartree-Fock algorithm from scratch for Quantum N-Body simulations!
+
 The Hob Physics Engine is a 2D physics engine built in C++ with the SDL Graphics Library.
 
 It currently supports elastic collisions and gravitational interactions between particles, and is capable of simulating around 1.3k particles in real-time at 30 FPS. For simulations larger than this, it automatically generates a 30 FPS video of the simulation using the [stb_image library](https://github.com/nothings/stb). 
