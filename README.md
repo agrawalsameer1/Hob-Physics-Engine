@@ -2,11 +2,11 @@
 
 Developed By: Sameer Agrawal
 
+Please also see [my extension to this project](https://github.com/sameeragrawal536/HartreeFockEngine), in which I implemented the Hartree-Fock algorithm from scratch for Quantum N-Body simulations!
+
 <img width="560" alt="Screenshot 2023-10-24 at 9 13 03 PM" src="https://github.com/sameeragrawal536/Hob-Physics-Engine/assets/65458627/ff1a0dd5-9954-46e4-8de9-1e78d05aeee8">
 
 <img width="560" height="15" src="https://github.com/sameeragrawal536/Hob-Physics-Engine/assets/65458627/912ba660-ff1f-46f6-a8ee-64848c5cc80a">
-
-Please also see [my extension to this project](https://github.com/sameeragrawal536/HartreeFockEngine), in which I implemented the Hartree-Fock algorithm from scratch for Quantum N-Body simulations!
 
 The Hob Physics Engine is a 2D physics engine built in C++ with the SDL Graphics Library.
 
